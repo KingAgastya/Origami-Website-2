@@ -1,0 +1,14 @@
+h1{
+    color : rgb(255, 38, 0)
+}
+
+.header{
+    background-color: rgb(255, 230, 0);
+    display: flex;
+    justify-content: space-evenly ;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+}
