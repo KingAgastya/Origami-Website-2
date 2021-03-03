@@ -1,9 +1,9 @@
 h1{
-    color : rgb(255, 38, 0)
+    color : #ff2600
 }
 
 .header{
-    background-color: rgb(255, 230, 0);
+    background-color: #ffe600;
     display: flex;
     justify-content: space-evenly ;
 }
@@ -11,4 +11,9 @@ h1{
 .menu{
     display: flex;
     justify-content: center;
+}
+
+p{
+    background-color: #fbff00;
+    color: #40e0d0;
 }
